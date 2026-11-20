@@ -1,0 +1,13 @@
+# tienda_talavera
+![](T_Ronda_2_Fallo.png)
+![](talavera2.1_rojo.png)
+![](talavera2_verde.png)
+![](talavera3.png)
+![](talavera4.png)
+![](talavera5.png)
+![](talavera6_rojo.png)
+![](talavera6_verde.png)
+![](talavera7.png)
+![](talavera8.png)
+![](talavera9_fallo.png)
+![](talavera9_verde.png)
